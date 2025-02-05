@@ -1,4 +1,4 @@
-# wealthfield_education
+# wealthfield_education/Final year(2024) IT Project
 
 The Wealth-Field Online Education System is a digital learning platform designed to 
 provide open access to education for students who have some primary knowledge of IT 
