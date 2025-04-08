@@ -1,6 +1,6 @@
 # About Me
 
-I developed the wealthfield system for my final‐year as an BSC IT  student . The aim was to that empowers students—especially those from financially challenged backgrounds—to gain the IT skills they need to succeed in today’s job market.
+I developed the wealthfield system for my final‐year as an BSC IT  student . The aim was to create a platform that empowers students—especially those from financially challenged backgrounds—to gain the IT skills they need to succeed in today’s job market.
 
 ---
 
@@ -27,8 +27,8 @@ This platform allows students to:
 | Layer        | Technologies                |
 |--------------|-----------------------------|
 | Front‑end    | HTML5 • CSS3 • JavaScript   |
-| Back‑end     | PHP (Laravel/Slim optional) |
-| Database     | MySQL / MariaDB             |
+| Back‑end     | PHP |
+| Database     | MySQL              |
 
 
 ---
